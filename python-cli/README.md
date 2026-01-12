@@ -51,7 +51,7 @@ python cli.py
 
 Setelah program berjalan, Anda akan masuk ke mode interaktif. Ketik perintah berikut lalu tekan Enter:
 
-### SSTV (Slow Scan TV)
+### SSTV (Slow Scan TV) MASIH BETA DAN LOW RESOLUTION
 - `sstv tx <IMAGE_PATH>` : Mengirim gambar sebagai SSTV (Robot36).
   - Contoh: `sstv tx gambar.jpg`
 - `sstv rx start` : Memulai penerimaan/perekaman SSTV.
